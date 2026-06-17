@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ZedZapper — Privacy Policy</title>
+  <style>
+    body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6;
+           max-width: 720px; margin: 40px auto; padding: 0 20px; color: #222; }
+    h1 { font-size: 1.8em; } h2 { font-size: 1.2em; margin-top: 1.6em; }
+    .updated { color: #777; font-size: .9em; }
+    a { color: #b35900; }
+  </style>
+</head>
+<body>
+  <h1>ZedZapper — Privacy Policy</h1>
+  <p class="updated">Last updated: 12 June 2026</p>
+
+  <p>This Privacy Policy explains how ZedZapper (&quot;we&quot;, &quot;the app&quot;) handles
+  information. By using the app you agree to this policy.</p>
+
+  <h2>Information we collect</h2>
+  <p>ZedZapper does not ask for or collect your name, email, or account details. The app
+  stores your game progress (high score, level reached, and ad-removal purchase) locally
+  on your device.</p>
+
+  <h2>Advertising and third parties</h2>
+  <p>ZedZapper displays ads through Unity LevelPlay (ironSource) and its ad networks,
+  including Unity Ads. To deliver and measure ads, these partners may access your device's
+  advertising identifier (IDFA) and collect device and usage data. On iOS we request your
+  permission through the App Tracking Transparency prompt before any tracking takes place;
+  you can decline and still play the game, and you can change this at any time in
+  iOS Settings &rarr; Privacy &amp; Security &rarr; Tracking. We do not personalize ads
+  without your consent. For details, see the
+  <a href="https://unity.com/legal/game-player-and-app-user-privacy-policy">Unity / ironSource privacy policy</a>.</p>
+
+  <h2>Purchases</h2>
+  <p>In-app purchases (Remove Ads, Go to Level) are processed by Apple. We do not receive
+  or store your payment details.</p>
+
+  <h2>Children</h2>
+  <p>ZedZapper is not directed at children under 13, and we do not knowingly collect data
+  from them.</p>
+
+  <h2>Your rights (GDPR / CCPA)</h2>
+  <p>Depending on your region, you may have the right to access or delete data held about
+  you, and to opt out of personalized advertising or the sale of personal information. You
+  can use the App Tracking Transparency and iOS privacy controls, or contact us using the
+  details below.</p>
+
+  <h2>Contact</h2>
+  <p>If you have any questions about this policy, contact us at
+  <a href="mailto:filipe.dsd.santos@gmail.com">filipe.dsd.santos@gmail.com</a>.</p>
+</body>
+</html>
